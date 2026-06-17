@@ -1,1 +1,2 @@
 Hello Rdryfh 
+Learning Git is fun
