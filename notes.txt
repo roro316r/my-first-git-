@@ -1,2 +1,3 @@
 Hello Rdryfh 
 Learning Git is fun
+this is my new idea 
